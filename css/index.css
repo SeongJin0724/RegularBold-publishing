@@ -55,6 +55,7 @@ header {
     margin: 0 auto;
     padding: 40px 0;
     display: flex;
+    justify-content: center;
 }
 
 header h1 {
